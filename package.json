@@ -1,6 +1,6 @@
 {
   "name": "arca-git-20240304",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is an example repo for ARCA",
   "main": "index.js",
   "scripts": {
