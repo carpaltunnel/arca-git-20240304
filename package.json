@@ -1,7 +1,7 @@
 {
   "name": "arca-git-20240304",
   "version": "1.0.0",
-  "description": "This is an example repo",
+  "description": "This is an example repo for ARCA",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
